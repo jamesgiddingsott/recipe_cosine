@@ -1,5 +1,5 @@
 # recipe_cosine
-Recipe scraper and Menu builder using Cosine Similarity
+Recipe scraper and menu builder using Cosine Similarity.
 
 This Google Colab notebook uses the recipe-scrapers library to grab various recipes from the web.
 The instructions from these recipes are then vectorized and a matrix is built using a cosine similarity algorithm to determine
