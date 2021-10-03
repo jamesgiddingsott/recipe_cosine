@@ -7,3 +7,5 @@ how alike the two recipes are.  This information is then loaded into a dataframe
 
 Additionally, the notebook can also randomize the selection of a weekly menu based on a total similarity score to hopefully create menus 
 with a very high culinary diversity.  
+
+Click the .ipynb file above to view the notebook on GitHub.  Additionally, one can for the notebook for personal use or use the "Open in Colab" icon at the top of the notebook to run and edit their own version right in the browser.
